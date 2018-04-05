@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CaavoAssignment</string>
+    <string name="title_activity_create_story">CreateStory</string>
+</resources>
